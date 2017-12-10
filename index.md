@@ -6,7 +6,7 @@
 </div>
 <div class="box2">
 <br>
-Haonan is currently a Ph.D. candidacy at the Computer Science Department at College of William and Mary. He received his BS degree of Computer Science at East China University of Science and Technology. He received his MS degree of Computer Science at College of William and Mary. His research direction is GPU Architecture. His Ph.D. advisor is <a href="http://adwaitjog.github.io/index.html/">Adwait Jog</a>.
+Haonan is currently a Ph.D. candidacy at the Computer Science Department of College of William and Mary. He received his BS degree of Computer Science at East China University of Science and Technology. He received his MS degree of Computer Science at College of William and Mary. His research direction is GPU Architecture. His Ph.D. advisor is <a href="http://adwaitjog.github.io/index.html/">Adwait Jog</a>.
 </div>
 </div>
 <br>
@@ -20,15 +20,41 @@ Haonan is currently a Ph.D. candidacy at the Computer Science Department at Coll
 </dl>
 
 ## Research Interest
-- Bulleted
-- List
+- GPU Architecture
+- GPGPU Computing
+- Memory System Architecture
+- Peformance Evaluation
+- Approximate Computing
+- Hardware Scheduling
+- Machine Learning
 
 ## Publications
-- Bulleted
-- List
+<p><b><span style="color: forestgreen">(HPCA 2018)</span></b>
+[<a href="docs/pdf/pbs-hpca18.pdf">PDF</a>]
+[<a href="coming.html">Talk (PPTX)</a>] <br />
+<tt>Haonan Wang</tt>, <tt>Fan Luo</tt>, <tt>Mohamed Ibrahim</tt>, Onur Kayiran, <b>Adwait Jog</b> <br />
+<a href="docs/pdf/pbs-hpca18.pdf"><i>Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management</i></a>, <br />
+In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  <br /> 
+(Acceptance rate: 54/260 ≈ 20%) <br /></p>
+<h3></h3>
+<p><b><span style="color: forestgreen">(ISVLSI 2017)</span></b>
+[<a href="docs/pdf/sotram-isvlsi17.pdf">PDF</a>]
+[<a href="coming.html">Talk (PPTX)</a>] <br />
+Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, <tt>Haonan Wang</tt>, Mehdi Tahoori, <b>Adwait Jog</b>, Jeffrey Vetter <br />
+<a href="coming.html"><i>Architecting SOT-RAM Based GPU Register File</i></a>, <br />
+In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, July 2017 <br />
+(Acceptance rate: 67/212 ≈ 32%) <br /></p>
+<h3></h3>
+<p><b><span style="color: forestgreen">(VLSID 2017)</span></b>
+[<a href="docs/pdf/GPU-SE-VLSID-2017.pdf">PDF</a>]
+[<a href="docs/pptx/GPU-SE-VLSID-2017.pptx">Talk (PPTX)</a>] <br />
+Sparsh Mittal, <tt>Haonan Wang</tt>, <b>Adwait Jog</b>, Jeffrey Vetter, <br />
+<a href="docs/pdf/GPU-SE-VLSID-2017.pdf"><i>Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File</i></a>, <br />
+In the Proceedings of 30th International Conference on VLSI design and 16th International Conference on Embedded Systems, 
+Hyderabad, India, Jan 2017 <br />
+(Acceptance rate: 71/292 ≈ 24%) <br /></p>
+<h3></h3>
 
 * * *
-
-
 
 > We're living the future so the present is our past.
