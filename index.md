@@ -1,6 +1,6 @@
 * * *
 ## About Me
-<h6>&nbsp;&nbsp;&nbsp;<img src="docs/icon_1.jpg" height="170" width="200"/></h6>
+<h6>&nbsp;&nbsp;&nbsp;<img src="docs/icon_1.jpg" height="340" width="400"/></h6>
 Haonan is currently a Ph.D. candidacy at the Computer Science Department at College of William and Mary. He received his BS degree of Computer Science at East China University of Science and Technology. He received his MS degree of Computer Science at College of William and Mary. His research direction is GPU Architecture. His Ph.D. advisor is [Adwait Jog](http://adwaitjog.github.io/index.html).
 
 ## Research Interest
