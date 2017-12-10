@@ -1,9 +1,7 @@
-# Haonan Wang
-![Image](src)
-
 ## About Me
 Haonan is currently a Ph.D. Student at College of William and Mary.
 [Link](url)
+![Image](src)
 
 - Bulleted
 - List
@@ -13,8 +11,6 @@ Haonan is currently a Ph.D. Student at College of William and Mary.
 
 **Bold** and _Italic_ and `Code` text
 
-
 ## Contact Info
-
 
 > We're living the future so the present is our past.
