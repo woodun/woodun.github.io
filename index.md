@@ -56,5 +56,3 @@ In the Proceedings of 30th International Conference on VLSI design and 16th Inte
 Hyderabad, India, Jan 2017 <br />
 (Acceptance rate: 71/292 ≈ 24%) <br /></p>
 <h3></h3>
-
-* * *
