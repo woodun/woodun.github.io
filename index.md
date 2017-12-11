@@ -6,7 +6,7 @@
 </div>
 <div class="box2">
 <br>
-Haonan is currently a Ph.D. candidacy at the Computer Science Department of College of William and Mary. He received his BS degree of Computer Science at East China University of Science and Technology. He received his MS degree of Computer Science at College of William and Mary. His research direction is GPU Architecture. His Ph.D. advisor is <a href="http://adwaitjog.github.io/index.html/">Adwait Jog</a>.
+Haonan is currently a Ph.D. candidacy at the <a href="http://www.wm.edu/as/computerscience/?svr=web">Computer Science Department</a> of <a href="http://www.wm.edu/">College of William and Mary</a>. He received his BS degree of Computer Science at <a href="http://www.ecust.edu.cn/_t41/main.htm">East China University of Science and Technology</a>. He received his MS degree of Computer Science at <a href="http://www.wm.edu/">College of William and Mary</a>. His research direction is GPU Architecture. His Ph.D. advisor is <a href="http://adwaitjog.github.io/index.html/">Adwait Jog</a>.
 </div>
 </div>
 <br>
