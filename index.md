@@ -16,7 +16,7 @@ Haonan is currently a Ph.D. candidacy at the <a href="http://www.wm.edu/as/compu
 <dt>Email</dt>
 <dd>hwang07@email.wm.edu</dd>
 <dt>Phone</dt>
-<dd>7579036719</dd>
+<dd>757-903-6719</dd>
 <dt>Office Address</dt>
 <dd>101B McGlothlin-Street Hall, Williamsburg, VA</dd>
 </dl>
