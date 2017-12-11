@@ -17,6 +17,8 @@ Haonan is currently a Ph.D. candidacy at the Computer Science Department of Coll
 <dd>hwang07@email.wm.edu</dd>
 <dt>Phone</dt>
 <dd>7579036719</dd>
+<dt>Office Address</dt>
+<dd>101B McGlothlin-Street Hall, Williamsburg, VA</dd>
 </dl>
 
 ## Research Interest
@@ -30,26 +32,26 @@ Haonan is currently a Ph.D. candidacy at the Computer Science Department of Coll
 
 ## Publications
 <p><b><span style="color: forestgreen">(HPCA 2018)</span></b>
-[<a href="docs/pdf/pbs-hpca18.pdf">PDF</a>]
-[<a href="coming.html">Talk (PPTX)</a>] <br />
-<tt>Haonan Wang</tt>, <tt>Fan Luo</tt>, <tt>Mohamed Ibrahim</tt>, Onur Kayiran, <b>Adwait Jog</b> <br />
-<a href="docs/pdf/pbs-hpca18.pdf"><i>Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management</i></a>, <br />
+[<a href="http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf">PDF</a>]
+[<a href="http://adwaitjog.github.io/coming.html">Talk (PPTX)</a>] <br />
+<b>Haonan Wang</b>, Fan Luo, <tt>Mohamed Ibrahim</tt>, Onur Kayiran, Adwait Jog <br />
+<a href="http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf"><i>Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management</i></a>, <br />
 In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  <br /> 
 (Acceptance rate: 54/260 ≈ 20%) <br /></p>
 <h3></h3>
 <p><b><span style="color: forestgreen">(ISVLSI 2017)</span></b>
-[<a href="docs/pdf/sotram-isvlsi17.pdf">PDF</a>]
-[<a href="coming.html">Talk (PPTX)</a>] <br />
+[<a href="http://adwaitjog.github.io/docs/pdf/sotram-isvlsi17.pdf">PDF</a>]
+[<a href="http://adwaitjog.github.io/coming.html">Talk (PPTX)</a>] <br />
 Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, <tt>Haonan Wang</tt>, Mehdi Tahoori, <b>Adwait Jog</b>, Jeffrey Vetter <br />
-<a href="coming.html"><i>Architecting SOT-RAM Based GPU Register File</i></a>, <br />
+<a href="http://adwaitjog.github.io/coming.html"><i>Architecting SOT-RAM Based GPU Register File</i></a>, <br />
 In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, July 2017 <br />
 (Acceptance rate: 67/212 ≈ 32%) <br /></p>
 <h3></h3>
 <p><b><span style="color: forestgreen">(VLSID 2017)</span></b>
-[<a href="docs/pdf/GPU-SE-VLSID-2017.pdf">PDF</a>]
-[<a href="docs/pptx/GPU-SE-VLSID-2017.pptx">Talk (PPTX)</a>] <br />
+[<a href="http://adwaitjog.github.io/docs/pdf/GPU-SE-VLSID-2017.pdf">PDF</a>]
+[<a href="http://adwaitjog.github.io/docs/pptx/GPU-SE-VLSID-2017.pptx">Talk (PPTX)</a>] <br />
 Sparsh Mittal, <tt>Haonan Wang</tt>, <b>Adwait Jog</b>, Jeffrey Vetter, <br />
-<a href="docs/pdf/GPU-SE-VLSID-2017.pdf"><i>Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File</i></a>, <br />
+<a href="http://adwaitjog.github.io/docs/pdf/GPU-SE-VLSID-2017.pdf"><i>Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File</i></a>, <br />
 In the Proceedings of 30th International Conference on VLSI design and 16th International Conference on Embedded Systems, 
 Hyderabad, India, Jan 2017 <br />
 (Acceptance rate: 71/292 ≈ 24%) <br /></p>
@@ -57,4 +59,4 @@ Hyderabad, India, Jan 2017 <br />
 
 * * *
 
-> We're living the future so the present is our past.
+> Boredom is my greatest enmey.
