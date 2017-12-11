@@ -59,4 +59,4 @@ Hyderabad, India, Jan 2017 <br />
 
 * * *
 
-> Boredom is my greatest enmey.
+> Boredom is my greatest enemy.
