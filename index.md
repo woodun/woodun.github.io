@@ -34,7 +34,7 @@ Haonan is currently a Ph.D. candidacy at the Computer Science Department of Coll
 <p><b><span style="color: forestgreen">(HPCA 2018)</span></b>
 [<a href="http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf">PDF</a>]
 [<a href="http://adwaitjog.github.io/coming.html">Talk (PPTX)</a>] <br />
-<b>Haonan Wang</b>, Fan Luo, <tt>Mohamed Ibrahim</tt>, Onur Kayiran, Adwait Jog <br />
+<b>Haonan Wang</b>, Fan Luo, Mohamed Ibrahim, Onur Kayiran, Adwait Jog <br />
 <a href="http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf"><i>Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management</i></a>, <br />
 In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  <br /> 
 (Acceptance rate: 54/260 ≈ 20%) <br /></p>
@@ -42,7 +42,7 @@ In the Proceedings of 24th IEEE Symposium on High Performance Computer Architect
 <p><b><span style="color: forestgreen">(ISVLSI 2017)</span></b>
 [<a href="http://adwaitjog.github.io/docs/pdf/sotram-isvlsi17.pdf">PDF</a>]
 [<a href="http://adwaitjog.github.io/coming.html">Talk (PPTX)</a>] <br />
-Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, <tt>Haonan Wang</tt>, Mehdi Tahoori, <b>Adwait Jog</b>, Jeffrey Vetter <br />
+Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, <b>Haonan Wang</b>, Mehdi Tahoori, Adwait Jog, Jeffrey Vetter <br />
 <a href="http://adwaitjog.github.io/coming.html"><i>Architecting SOT-RAM Based GPU Register File</i></a>, <br />
 In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, July 2017 <br />
 (Acceptance rate: 67/212 ≈ 32%) <br /></p>
@@ -50,7 +50,7 @@ In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, J
 <p><b><span style="color: forestgreen">(VLSID 2017)</span></b>
 [<a href="http://adwaitjog.github.io/docs/pdf/GPU-SE-VLSID-2017.pdf">PDF</a>]
 [<a href="http://adwaitjog.github.io/docs/pptx/GPU-SE-VLSID-2017.pptx">Talk (PPTX)</a>] <br />
-Sparsh Mittal, <tt>Haonan Wang</tt>, <b>Adwait Jog</b>, Jeffrey Vetter, <br />
+Sparsh Mittal, <b>Haonan Wang</b>, Adwait Jog, Jeffrey Vetter, <br />
 <a href="http://adwaitjog.github.io/docs/pdf/GPU-SE-VLSID-2017.pdf"><i>Design and Analysis of Soft-Error Resilience Mechanisms for GPU Register File</i></a>, <br />
 In the Proceedings of 30th International Conference on VLSI design and 16th International Conference on Embedded Systems, 
 Hyderabad, India, Jan 2017 <br />
