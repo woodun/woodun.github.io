@@ -34,7 +34,7 @@ Haonan is currently a Ph.D. candidacy at the Computer Science Department of Coll
 <p><b><span style="color: forestgreen">(HPCA 2018)</span></b>
 [<a href="http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf">PDF</a>]
 [<a href="http://adwaitjog.github.io/coming.html">Talk (PPTX)</a>] <br />
-**Haonan Wang**, Fan Luo, Mohamed Ibrahim, Onur Kayiran, Adwait Jog <br />
+__Haonan Wang__, Fan Luo, Mohamed Ibrahim, Onur Kayiran, Adwait Jog <br />
 <a href="http://adwaitjog.github.io/docs/pdf/pbs-hpca18.pdf"><i>Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management</i></a>, <br />
 In the Proceedings of 24th IEEE Symposium on High Performance Computer Architecture (HPCA), Vienna, Austria, Feb 2018  <br /> 
 (Acceptance rate: 54/260 ≈ 20%) <br /></p>
