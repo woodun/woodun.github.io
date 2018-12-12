@@ -28,6 +28,7 @@ Haonan is currently a Ph.D. candidate at the <a href="http://www.wm.edu/as/compu
 - Peformance Evaluation
 - Approximate Computing
 - Hardware Scheduling
+- GPU Security
 - Machine Learning
 
 ## Publications
