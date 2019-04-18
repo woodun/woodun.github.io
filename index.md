@@ -57,9 +57,9 @@ In the Proceedings of 24th IEEE Symposium on High Performance Computer Architect
 (Acceptance rate: 54/260 ≈ 20%) <br /></p>
 <h3></h3>
 <p><b><span style="color: forestgreen">(ISVLSI 2017)</span></b>
-[<a href="docs/pdf/sotram-isvlsi17.pdf" target=&ldquo;blank&rdquo;>PDF</a>] <br />
+[<a href="http://adwaitjog.github.io/docs/pdf/sotram-isvlsi17.pdf" target=&ldquo;blank&rdquo;>PDF</a>] <br />
 Sparsh Mittal, Rajendra Bishnoi, Fabian Oboril, <strong>Haonan Wang</strong>, Mehdi Tahoori, Adwait Jog, Jeffrey Vetter <br />
-<a href="docs/pdf/sotram-isvlsi17.pdf" target=&ldquo;blank&rdquo;><i>Architecting SOT-RAM Based GPU Register File</i></a>, <br />
+<a href="http://adwaitjog.github.io/docs/pdf/sotram-isvlsi17.pdf" target=&ldquo;blank&rdquo;><i>Architecting SOT-RAM Based GPU Register File</i></a>, <br />
 In the Proceedings of IEEE Annual Symposium on VLSI (ISVLSI), Bochum, Germany, July 2017 <br />
 (Acceptance rate: 67/212 ≈ 32%) <br /></p>
 <h3></h3>
