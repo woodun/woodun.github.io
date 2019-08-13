@@ -33,14 +33,17 @@ Haonan is currently a Ph.D. candidate at the <a href="http://www.wm.edu/as/compu
 
 ## Publications
 <p><b><span style="color: forestgreen">(DSN 2019)</span></b> 
-[<a href="http://adwaitjog.github.io/docs/pdf/lmc-dsn19.pdf">PDF</a>] <br />
+[<a href="http://adwaitjog.github.io/docs/pdf/lmc-dsn19.pdf">PDF</a>]
+[<a href="http://adwaitjog.github.io/docs/pptx/LMC_DSN2019-Slides.pptx">Talk (PPTX)</a>] <br />
 <strong>Haonan Wang</strong> and Adwait Jog <br />
 <a href="http://adwaitjog.github.io/docs/pdf/lmc-dsn19.pdf"><i>Exploiting Latency and Error Tolerance of GPGPU Applications for an Energy-efficient DRAM</i></a>, <br />
 In the Proceedings of 49th IEEE International Conference on Dependable Systems and Networks
 (DSN), Portland, OR, June 2019 <br />
 (Acceptance rate: 54/252 ≈ 21%) <br /></p>
 <h3></h3>
-<p><b><span style="color: forestgreen">(ICS 2019)</span></b> <br />
+<p><b><span style="color: forestgreen">(ICS 2019)</span></b> 
+[<a href="http://adwaitjog.github.io/docs/pdf/asap-ics19.pdf">PDF</a>] 
+[<a href="http://adwaitjog.github.io/docs/pptx/ASAP_ICS2019-Slides.pptx">Talk (PPTX)</a>] <br />
 <strong>Haonan Wang</strong>, Mohamed Ibrahim, Sparsh Mittal, Adwait Jog <br />
 <a href="http://adwaitjog.github.io/coming.html"><i>Address-Stride Assisted Approximate Value Prediction in GPUs</i></a>, <br />
 In the Proceedings of 33rd ACM International Conference on Super Computing (ICS), 
