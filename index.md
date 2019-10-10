@@ -11,6 +11,8 @@ Haonan is currently a Ph.D. candidate at the <a href="http://www.wm.edu/as/compu
 </div>
 <br>
 
+I am now on the job market. I am looking for GPU Architecture related positions.
+
 ## Contact Info
 <dl>
 <dt>Email</dt>
