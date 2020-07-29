@@ -6,21 +6,21 @@
 </div>
 <div class="box2">
 <br>
-Haonan is currently a Ph.D. candidate at the <a href="http://www.wm.edu/as/computerscience/?svr=web">Computer Science Department</a> of <a href="http://www.wm.edu/">College of William and Mary</a>. He received his BS degree of Computer Science at <a href="http://www.ecust.edu.cn/_t41/main.htm">East China University of Science and Technology</a>. He received his MS degree of Computer Science at <a href="http://www.wm.edu/">College of William and Mary</a>. His research direction is GPU Architecture. His Ph.D. advisor is <a href="http://adwaitjog.github.io">Adwait Jog</a>.
+Haonan is currently working at San Jose State University as an assistant professor. He received his BS degree of Computer Science at <a href="http://www.ecust.edu.cn/_t41/main.htm">East China University of Science and Technology</a>. He received his MS degree of Computer Science at <a href="http://www.wm.edu/">College of William and Mary</a>. He received his Ph.D. degree at the <a href="http://www.wm.edu/as/computerscience/?svr=web">Computer Science Department</a> of <a href="http://www.wm.edu/">College of William and Mary</a>. His Ph.D. advisor is <a href="http://adwaitjog.github.io">Adwait Jog</a>. His research focuses on the broad area of Computer Architecture, especially GPU Architecture.
 </div>
 </div>
 <br>
 
-I am now on the job market. I am looking for GPU Architecture related positions.
+I have joined San Jose State University as an assistant professor on July, 2020. I am looking for collaborations from all disciplines. I am also looking for student assistants to join my research.
 
 ## Contact Info
 <dl>
 <dt>Email</dt>
-<dd>hwang07@email.wm.edu</dd>
+<dd>haonan.wang@sjsu.edu</dd>
 <dt>Phone</dt>
 <dd>757-903-6719</dd>
 <dt>Office Address</dt>
-<dd>101B McGlothlin-Street Hall, Williamsburg, VA</dd>
+<dd>working at home right now</dd>
 </dl>
 
 ## Research Interest
