@@ -12,7 +12,8 @@ Haonan is currently working at San Jose State University as an assistant profess
 <br>
 
 ## News
-I have joined San Jose State University as an assistant professor on July, 2020. I am looking for collaborations from all disciplines. I am also looking for student assistants to join my research.
+I have joined San Jose State University as an assistant professor on July, 2020. <br />
+I am looking for collaborations from all disciplines. I am also looking for student assistants to join my research.
 
 ## Contact Info
 <dl>
