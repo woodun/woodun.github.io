@@ -25,6 +25,9 @@ I am looking for collaborations from all disciplines. I am also looking for stud
 <dd>working at home right now</dd>
 </dl>
 
+## Teaching
+Fall 2020: CMPE140 Computer Architecture and Design <br />
+
 ## Research Interest
 - GPU Architecture
 - GPGPU Computing
